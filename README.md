@@ -1,0 +1,1 @@
+This repository contains my work for Assignment 10. The file included is python_module10assignment.py. In this assignment, I practiced data cleaning with Pandas, including fixing inconsistent formatting, missing values, and incorrect data types in a customer dataset.
